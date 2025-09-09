@@ -1,5 +1,5 @@
 .mySwiper{
-    height: 90vh;
+    min-height: 90vh;
     position: relative;
 }
 .myswiper-one{
