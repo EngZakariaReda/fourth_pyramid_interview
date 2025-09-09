@@ -31,6 +31,7 @@ export default function Heroimg() {
           clickable: true,
         }}
         modules={[Pagination]}
+        touchMoveStopPropagation={false}
         className="mySwiper"
       >
         {
