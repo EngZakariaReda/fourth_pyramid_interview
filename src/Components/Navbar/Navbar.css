@@ -1,0 +1,18 @@
+nav{
+    height: 10vh;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+.sideicon{
+    display: none;
+}
+@media(max-width:768px){
+    .sideicon{
+        display: block;
+    }
+    .links{
+        display: none !important;
+    }
+}

@@ -1,0 +1,13 @@
+.aloneman-parent{
+    margin-bottom: 100px;
+}
+.aloneman .child{
+    height: 300px;
+}
+.manimg{
+    object-fit: fill;
+}
+.activeside{
+    color: var(--special-color) !important;
+    border-color: var(--special-color) !important;
+}

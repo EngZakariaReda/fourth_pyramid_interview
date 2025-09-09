@@ -1,0 +1,17 @@
+.card{
+    position: relative;
+}
+.show-new{
+    width: 100%;
+    position: absolute;
+    top: 5%;
+    left: 0;
+    padding: 0 20px;
+}
+.card-img-top{
+    height: 300px;
+    object-fit: fill;
+}
+.heartmouse:hover{
+    color: red !important;
+}

@@ -1,0 +1,15 @@
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --special-color:#FF6600;
+  --main--color: black;
+}
+a{
+  text-decoration: none;
+}
+.special-text{
+  color: var(--special-color);
+}

@@ -1,0 +1,36 @@
+.mySwiper{
+    height: 90vh;
+    position: relative;
+}
+.myswiper-one{
+    background-image: url("../images/office.webp");
+    background-size: cover;
+}
+.work-btn{
+    width: 150px;
+    background-color: black;
+    border-radius: 20px;
+}
+.work-btn:hover{
+    background-color: white;
+    color: black !important;
+    border: none;
+}
+.hero_text{
+    font-size: 65px;
+    font-weight: 800;
+}
+.hero-parag{
+    width: 50%;
+    font-size: 25px;
+    color: rgb(167, 165, 165);
+}
+.swiper-pagination-bullet{
+    background-color: white !important;
+    width: 25px !important;
+    height: 25px !important;
+}
+.swiper-pagination{
+    position: absolute !important;
+    right: 20% !important;
+}

@@ -1,0 +1,17 @@
+aside{
+    width: 100vw;
+    height: 100vh;
+    background-color:rgba(0,0,0,0.4);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10 ;
+    transform: translateX(-200%);
+    transition: all 0.5s linear;
+}
+aside .child{
+    width: 50%;
+}
+.active{
+    transform: translateX(0);
+}
