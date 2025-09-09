@@ -35,3 +35,8 @@
     position: absolute !important;
     right: 20% !important;
 }
+@media(max-width:768px){
+    .mySwiper{
+        height: 70vh;
+    }
+}
