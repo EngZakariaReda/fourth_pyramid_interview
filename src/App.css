@@ -7,6 +7,11 @@
   --special-color:#FF6600;
   --main--color: black;
 }
+body{
+  overflow-x: hidden;
+  overflow-y: auto; /* Critical - don't set to hidden */
+  height: auto; /* Don't constrain body height */
+}
 a{
   text-decoration: none;
 }
